@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Subreddit Albums</string>
     <string name="title_activity_test">TestActivity</string>
+    <string name="action_sub">Choose Subreddit</string>
 </resources>
