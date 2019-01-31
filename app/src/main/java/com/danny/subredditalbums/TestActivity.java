@@ -1,5 +1,6 @@
 package com.danny.subredditalbums;
 
+import android.app.Dialog;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -72,7 +73,7 @@ public class TestActivity extends AppCompatActivity {
 
         switch (item.getItemId()){
             case R.id.action_sub:
-
+                Dialog subDialog = new Dialog();
 
                 return true;
             default:
